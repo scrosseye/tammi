@@ -1,4 +1,4 @@
-# tammi
+# TAMMI
 Base code for the Tool for Automatic Measurement of Morphological Information (TAMMI). This does not include code for the graphic user interface.
 
 The user-friendly version of the tool is available at linguisticanalysistools.org
